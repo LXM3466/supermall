@@ -1,0 +1,13 @@
+root = true
+
+[*]
+charset = utf-8   
+indent_style = space
+# 首行缩进两空格
+indent_size = 2    
+# 
+end_of_line = lf
+# 每个文件结束是否插入空行
+insert_final_newline = true
+# 
+trim_trailing_whitespace = true
